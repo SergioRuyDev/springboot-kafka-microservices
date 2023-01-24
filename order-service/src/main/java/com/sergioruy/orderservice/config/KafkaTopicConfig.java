@@ -9,7 +9,7 @@ import org.springframework.kafka.config.TopicBuilder;
 @Configuration
 public class KafkaTopicConfig {
 
-    @Value("${order_topics}")
+    @Value("${spring.kafka.topic.name}")
     private String topicName;
 
     //Spring Bean for Kafka Topic
