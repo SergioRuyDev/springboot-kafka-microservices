@@ -35,8 +35,6 @@ Simple Example of Microservices with Event-Driven Architecture with Multiple Con
 
   7. Postman
 
-  8. IntelliJ IDEA
-
 
 ## Steps and Requirements to build and run the Project
 
