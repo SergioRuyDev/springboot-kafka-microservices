@@ -35,6 +35,8 @@ Simple Example of Microservices with Event-Driven Architecture with Multiple Con
 
   7. Postman
 
+  8. Swagger
+
 
 ## Steps and Requirements to build and run the Project
 
